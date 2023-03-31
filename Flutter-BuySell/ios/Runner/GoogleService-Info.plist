@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>844811354799-n33m3l4u9oqtflm06bk92d1270hp2fv8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.844811354799-n33m3l4u9oqtflm06bk92d1270hp2fv8</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>844811354799-2q0mqs4oqlv8boitrbhim0e6hfau94tr.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAiz2j-_71-f0pBx4ZsaIGrmKLs583W2yE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>844811354799</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.app.clisbo.es</string>
+	<key>PROJECT_ID</key>
+	<string>clisbo-spain</string>
+	<key>STORAGE_BUCKET</key>
+	<string>clisbo-spain.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:844811354799:ios:4f038534a194b2fee88a5a</string>
+	<key>DATABASE_URL</key>
+	<string>https://clisbo-spain-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

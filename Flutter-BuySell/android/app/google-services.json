@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "844811354799",
+    "firebase_url": "https://clisbo-spain-default-rtdb.firebaseio.com",
+    "project_id": "clisbo-spain",
+    "storage_bucket": "clisbo-spain.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844811354799:android:26bc3f7cb93ba24ae88a5a",
+        "android_client_info": {
+          "package_name": "com.clisbo.app.spain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844811354799-2q0mqs4oqlv8boitrbhim0e6hfau94tr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clisbo.app.spain",
+            "certificate_hash": "0a5cbb38900d56a54ea94950fbad88ba679ca55b"
+          }
+        },
+        {
+          "client_id": "844811354799-41qaahocpoo155jigm5hfmebd7o10gjk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clisbo.app.spain",
+            "certificate_hash": "e95916dd988c31a5fdb0359a4d697408119fc25f"
+          }
+        },
+        {
+          "client_id": "844811354799-4gfrc78iui8v03ed99tpgpcug3leepgq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clisbo.app.spain",
+            "certificate_hash": "b024b54404aa83b8b1c6065543c6864242ef66bd"
+          }
+        },
+        {
+          "client_id": "844811354799-4gv48timfaffio8us209f0k6abphvh55.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clisbo.app.spain",
+            "certificate_hash": "7e5ff478f7fd76cd2013c760b3bf89b8c3db0c5a"
+          }
+        },
+        {
+          "client_id": "844811354799-ls0go86607gkd51gf9sls8mc87lqmq3f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clisbo.app.spain",
+            "certificate_hash": "2bf0aa7047ac9d8163d1a0f0d22cc54347cfba6c"
+          }
+        },
+        {
+          "client_id": "844811354799-ditp3bf1dr3dcij9lef8p7fi7fdae6mh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeHwoBjDjFbCLLhY7tD9kr9_3LWVrSau8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844811354799-ditp3bf1dr3dcij9lef8p7fi7fdae6mh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "844811354799-20errqu68cfjpv6hdo6us53vkrv2rail.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.clisbo.app.spain"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
